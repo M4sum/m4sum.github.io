@@ -9,9 +9,10 @@ navbar_entries:
     url: false
 
 project_entries:
-  - title: Chat with OISS
-    url: chat-with-oiss
-    desc: A chatbot for your University's OISS website
+  - title: OISS Chatbot
+    url: OISS Chatbot
+    desc: Chat with your university's OISS website
+    highlight: WIP
 
   - title: Project 2
     url: overview-post

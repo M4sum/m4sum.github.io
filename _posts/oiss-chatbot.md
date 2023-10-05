@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chat With OISS"
+title: "OISS Chatbot"
 ---
 
 # OISS Chatbot
