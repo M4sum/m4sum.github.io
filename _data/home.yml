@@ -9,9 +9,9 @@ navbar_entries:
     url: false
 
 project_entries:
-  - title: Chat with OISS website
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Chat with OISS
+    url: chat-with-oiss
+    desc: A chatbot for your University's OISS website
 
   - title: Project 2
     url: overview-post
