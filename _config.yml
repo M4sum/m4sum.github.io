@@ -1,12 +1,14 @@
 title: Masum Patel
 description: > # description of the site (multiple lines allowed)
-  Masum Patel is an Applied AI Engineer who after his excruciatingly long career of 18 months at Deloitte Consulting 
-  is now moving on to build actual AI products for good use cases everyday. He wants to be a
-  serial entrepreneur one day so he can throw a yacht party with all the billionares
-  and not invite Elon. He is skilled in various AI/ML technologies but his true skill lies in 
-  convincing people to watch South Park and listen to house music.  
+  Masum is an Applied AI Engineer, Chapter Lead of FruitPunch USA local chapter and 
+  MSAI Northwestern alumni building AI solutions everyday. He is a student of entrepreneurship and a problem 
+  solver at heart who aims to create AI products for good. With over two years of experience in 
+  the domain as an engineer and a consultant, Masum has amassed a diverse portfolio of AI projects 
+  ranging from research in information extraction and summarizer systems with multi-modal models 
+  to architecting and developing customer support QA systems for big Pharma and Retail giants. 
+  When he is not working, you can always catch him exploring music, playing soccer or cooking.
 
-permalink: /:slug
+permalink: /:title/
 
 favicon: "./logo.png" # relative path to site's favicon
 
@@ -29,7 +31,7 @@ theme_config:
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
-  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
