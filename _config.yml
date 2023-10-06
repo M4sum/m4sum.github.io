@@ -8,7 +8,7 @@ description: > # description of the site (multiple lines allowed)
   to architecting and developing customer support QA systems for big Pharma and Retail giants. 
   When he is not working, you can always catch him exploring music, playing soccer or cooking.
 
-permalink: /:title/
+permalink: none
 
 favicon: "./logo.png" # relative path to site's favicon
 
