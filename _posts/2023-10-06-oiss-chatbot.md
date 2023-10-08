@@ -4,10 +4,10 @@ title: "OISS Chatbot"
 ---
 
 ## Table of contents
-- [Introduction](#introduction)
+- [About](#about)
 - [How It works](#how-it-works)
 
-# [About](#introduction)
+# [About](#about)
 
 This is a chatbot that allows users to ask immigration questions to their school's OISS website. The chatbot is built using LangCahin and Streamlit. It uses OpenAI's chat completion API and  allows you to have a conversational chat with an AI assistant powered by GPT-3. The overall process is pretty simple and can e broken down to these steps:
 
