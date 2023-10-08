@@ -38,14 +38,9 @@ old_project_entries:
 
 footer_entries:
 
-  - title: twitter
-    url: false
-
   - title: github
-    url: false
+    url: "https://www.github.com/m4sum"
 
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
