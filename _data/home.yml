@@ -8,10 +8,6 @@ project_entries:
     desc: Chat with your university's OISS website
     highlight: WIP
 
-  - title: Project 2
-    url: false
-    desc: Projects are shown in card layout
-
 old_project_entries:
   - title: Soopr
     url: false
