@@ -1,13 +1,23 @@
 title: Masum Patel
 description: > # description of the site (multiple lines allowed)
-  Masum is the Chapter Lead of FruitPunch AI USA chapter and 
-  MSAI Northwestern alumni who loves building AI solutions. He is a student of entrepreneurship and a problem 
-  solver at heart who aims to create AI products for good. /n
+  Hi all, I am the Chapter Lead of FruitPunch AI USA chapter and 
+  MSAI Northwestern alumni who loves building AI solutions. I am a student of entrepreneurship and a problem 
+  solver at heart who aims to create AI products for good.
   
-  With over three years of experience in the domain as an Applied AI engineer and an AI Consultant, Masum has amassed a diverse portfolio of AI projects 
-  ranging from research in information extraction and summarizer systems with multi-modal models 
-  to architecting and developing customer support QA systems for big Pharma and Retail giants. 
-  When he is not working, you can always catch him exploring music, playing soccer or cooking.
+  With over three years of experience in the domain as an Applied AI engineer and an AI Consultant, 
+  I have gained experience developing many AI projects.
+  
+  At Deloitte, I built segment-based demand forecasting software,
+  a scalable infrastructure for multi-class classification on hierarchical labels, 
+  and a platform for generating firm-specific visuals from text queries.
+  
+  With FruitPunch and Cornel's Bioacoustics Lab, my team developed an audio classification pipeline for real-time inference in 
+  the Central African rainforest. My contributions sped up inference by a factor of 25. 
+  
+  I have developed information extraction solution with multi-modal models, architected customer support QA systems,
+  built pipeline for predicting adverse drug reactions and much more, a serverless webapp for students to collaborate on a yearbook, and much more.
+  
+  When my desk gets too boring for me, I often explore music, play basketball, and cook for myself and loved ones :)
 
 permalink: none
 
