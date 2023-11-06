@@ -1,6 +1,8 @@
 navbar_entries:
   - title: github
     url: "https://www.github.com/m4sum"
+  - title: linkedin
+    url: "https://www.linkedin.com/in/masum-patel"
 
 project_entries:
   - title: OISS Chatbot
