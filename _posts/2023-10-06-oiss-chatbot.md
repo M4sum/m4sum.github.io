@@ -4,7 +4,7 @@ title: "OISS Chatbot"
 ---
 
 ## Table of contents
-- [A little context if you care to listen](#a-little-context-if-you-care-to-listen)
+- [Motivation](#a-little-context-if-you-care-to-listen)
 - [About the project](#about-the-project)
 - [tl;dr](#tldr)
 
