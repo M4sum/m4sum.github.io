@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OISS Chatbot"
+platform_url: "https://chat-with-oiss.streamlit.app/"
 ---
 
 ## Table of contents
