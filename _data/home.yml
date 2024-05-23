@@ -6,7 +6,7 @@ navbar_entries:
 
 project_entries:
   - title: OISS Chatbot
-    url: oiss-chatbot
+    url: "https://chat-with-oiss.streamlit.app/"
     desc: Chat with your university's OISS website
     highlight: WIP
 
