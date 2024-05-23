@@ -54,6 +54,6 @@ I welcome any feedback, ideas, or suggestions from the community. Feel free to e
 
 In this blog post, we've explored a Streamlit-based application that leverages natural language processing and retrieval-augmented generation to create a contextual chatbot for OISS queries. By combining the power of vector search, large language models, and secure API key management, this project demonstrates how to build an engaging and informative tool for users seeking immigration-related information.
 
-Give it a try here: [OISS Chatbot](https://www.masumpatel.com/oiss-chatbot)
+Give it a try here: [OISS Chatbot](https://chat-with-oiss.streamlit.app/)
 
 I hope this post has been informative and has sparked your interest in exploring similar projects. Happy coding!
